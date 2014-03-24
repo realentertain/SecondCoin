@@ -1,0 +1,2 @@
+debian/bin/secondcoind usr/bin
+src/secondcoind usr/lib/secondcoin

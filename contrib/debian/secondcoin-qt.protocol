@@ -1,0 +1,11 @@
+[Protocol]
+exec=secondcoin-qt '%u'
+protocol=secondcoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
